@@ -1,4 +1,4 @@
-"Dare Mighty Things" 🚀
+"Dare Mighty Things" 🚀<br><hr>
 Maxwell Gallucci Rodrigues 🙋🏼‍♂️
 
 - Trabalho com Front-End.💻
