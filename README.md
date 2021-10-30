@@ -1,12 +1,12 @@
 "Dare Mighty Things" 🚀<br><hr>
 Maxwell Gallucci Rodrigues 🙋🏼‍♂️
 
-- Trabalho com Front-End.💻
-- Estudante de Analise e Desenvolvimento de Sistemas 👨🏼‍🎓
-- Desenvolvedor nas Linguagens HTML e CSS 😎
-- Programador em JAVASCRIPT / PYTHON 💖
+- Trabalho com Front-End
+- Estudante de Analise e Desenvolvimento de Sistemas
+- Desenvolvedor nas Linguagens HTML e CSS
+- Programador em JAVASCRIPT / PYTHON
 - Framework Bootstrap
-- Biblioteca React 📚
+- Biblioteca React
 
 ##
 
