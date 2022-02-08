@@ -5,7 +5,7 @@ Maxwell Gallucci Rodrigues 🙋🏼‍♂️
 - Estudante de Analise e Desenvolvimento de Sistemas
 - Desenvolvedor nas Linguagens HTML e CSS
 - Programador em JAVASCRIPT / PYTHON
-- Framework Bootstrap
+- Framework Bootstrap / Django
 - Biblioteca React / Jquery
 
 ##
