@@ -6,7 +6,7 @@ Maxwell Gallucci Rodrigues 🙋🏼‍♂️
 - Desenvolvedor nas Linguagens HTML e CSS
 - Programador em JAVASCRIPT / PYTHON
 - Framework Bootstrap
-- Biblioteca React
+- Biblioteca React / Jquery
 
 ##
 
