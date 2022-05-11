@@ -1,7 +1,6 @@
 "Dare Mighty Things" 🚀<br><hr>
 Maxwell Gallucci Rodrigues 🙋🏼‍♂️
 
-- Trabalho com Front-End
 - Estudante de Analise e Desenvolvimento de Sistemas
 - Expertise em:
 - -HTML - CSS - JAVASCRIPT
