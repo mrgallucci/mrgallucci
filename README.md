@@ -3,14 +3,11 @@ Maxwell Gallucci Rodrigues 🙋🏼‍♂️
 
 - Trabalho com Front-End
 - Estudante de Analise e Desenvolvimento de Sistemas
-- Expertise em { 
-- -HTML 
-- -CSS  
-- -JAVASCRIPT
-- -PYTHON  
-- -BOOTSTRAP
-- -DJANGO
-- }
+- Expertise em:
+- -HTML - CSS - JAVASCRIPT
+- BOOTSTRAP - JQUERY - REACT
+- PYTHON - DJANGO
+
 
 ##
 
