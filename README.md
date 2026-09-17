@@ -2,31 +2,33 @@
 "Dare Mighty Things" 🚀<br><hr>
 # Olá, sou Maxwell Gallucci Rodrigues
 
-Estou direcionando minha trajetória profissional para a atuação como **Analista de Inteligência Artificial**, com foco na aplicação de IA generativa a tarefas de conteúdo, análise de dados, desenvolvimento e criação visual.
+Desenvolvo projetos web com apoio de inteligência artificial, explorando aplicações para comércio digital, automação, atendimento e aprendizado.
 
-Minha base inclui projetos de desenvolvimento web e automação com Python. Atualmente, exploro ferramentas de IA para transformar ideias em textos, código e materiais visuais.
+Estou direcionando minha trajetória profissional para **Análise de Inteligência Artificial**, com foco em compreender problemas, construir soluções e avaliar seus resultados.
 
-## Como utilizo inteligência artificial
+## Projetos em destaque
 
-| Ferramenta | Aplicações na minha prática |
+| Projeto | Proposta |
 |---|---|
-| **ChatGPT** | Redação e revisão de textos, melhoria de perfis profissionais, análise de dados, refinamento de prompts e apoio à correção de código. |
-| **Emergent** | Criação de aplicações e execução de código com assistência de IA. |
-| **Runway** | Criação de vídeos e imagens. |
-| **Lovart** | Elaboração de imagens, portfólios para impressão, banners e flyers. |
+| **[Casa da Barrica Wines](https://github.com/mrgallucci/Adega-Casa-da-barrica-wines)** | Plataforma de adega com catálogo, pedidos, assinaturas e integrações de IA para harmonização e atendimento. Em desenvolvimento e validação. |
+| **[Rick Teacher AI](https://github.com/mrgallucci/rick-teacher-ai)** | Aplicação para praticar cores em inglês com reconhecimento de voz, níveis, pontuação e progresso salvo no navegador. |
+| **[Royal Ingressos](https://github.com/mrgallucci/royal-ingressos)** | Protótipo para gestão de eventos e ingressos digitais, com fluxos demonstrativos de pagamento e validação. |
 
-## Base técnica
+## Tecnologias presentes nos projetos
 
-- **Desenvolvimento web:** HTML, CSS e JavaScript.
-- **Automação e dados:** Python e pandas.
-- **IA aplicada:** elaboração e refinamento de prompts para tarefas de texto, código e criação visual.
+- **Frontend:** React, JavaScript, HTML, CSS e Tailwind CSS.
+- **Backend e dados:** Python, FastAPI e MongoDB.
+- **Automação:** pandas e PyAutoGUI.
+- **Integrações:** APIs de pagamentos, reconhecimento de voz e modelos de linguagem.
 
-## Projetos de desenvolvimento
+## Como utilizo IA
 
-- [Rick Teacher](https://github.com/mrgallucci/Rick-Teacher): prática de cores em inglês com reconhecimento de voz.
-- [Simulator Bill App](https://github.com/mrgallucci/Simulator-Bill-App): interface de restaurante com carrinho e calculadora de gorjetas.
-- [Send Email AutoPy](https://github.com/mrgallucci/Send-Email-AutoPy): experimento de automação de relatórios de vendas com Python.
-- [Univerflix](https://github.com/mrgallucci/Streaming-Movie-Page): interface de catálogo de streaming desenvolvida a partir de um projeto de curso.
+- **ChatGPT:** redação, análise de dados, refinamento de prompts e apoio à revisão de código.
+- **Emergent:** desenvolvimento assistido de aplicações web.
+- **Runway:** criação de vídeos e imagens.
+- **Lovart:** criação de materiais visuais, banners, flyers e portfólios.
+
+Os projetos documentam minha prática com essas ferramentas. Seus READMEs apresentam o estado atual, as integrações e as limitações conhecidas.
 
 ## Contato
 
