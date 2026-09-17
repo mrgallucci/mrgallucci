@@ -1,29 +1,32 @@
+
 "Dare Mighty Things" 🚀<br><hr>
 # Olá, sou Maxwell Gallucci Rodrigues
 
-Estou direcionando meu desenvolvimento profissional para a atuação como **Analista de Inteligência Artificial**, com interesse em aplicar IA à análise de informações, à automação de tarefas e à melhoria de processos.
+Estou direcionando minha trajetória profissional para a atuação como **Analista de Inteligência Artificial**, com foco na aplicação de IA generativa a tarefas de conteúdo, análise de dados, desenvolvimento e criação visual.
 
-Minha trajetória inclui projetos de desenvolvimento web e automação com Python. Atualmente, estou ampliando essa base para construir soluções com inteligência artificial e documentar meus aprendizados por meio de projetos práticos.
-Desenvolvo projetos de interfaces web e automação com Python. Neste perfil, compartilho aplicações, experimentos e aprendizados em desenvolvimento de software.
+Minha base inclui projetos de desenvolvimento web e automação com Python. Atualmente, exploro ferramentas de IA para transformar ideias em textos, código e materiais visuais.
 
-## Tecnologias presentes nos meus projetos
+## Como utilizo inteligência artificial
+
+| Ferramenta | Aplicações na minha prática |
+|---|---|
+| **ChatGPT** | Redação e revisão de textos, melhoria de perfis profissionais, análise de dados, refinamento de prompts e apoio à correção de código. |
+| **Emergent** | Criação de aplicações e execução de código com assistência de IA. |
+| **Runway** | Criação de vídeos e imagens. |
+| **Lovart** | Elaboração de imagens, portfólios para impressão, banners e flyers. |
+
+## Base técnica
 
 - **Desenvolvimento web:** HTML, CSS e JavaScript.
-- **Interfaces e componentes:** jQuery e Owl Carousel.
-- **Automação e dados:** Python, pandas e PyAutoGUI.
+- **Automação e dados:** Python e pandas.
+- **IA aplicada:** elaboração e refinamento de prompts para tarefas de texto, código e criação visual.
 
-## Projetos em destaque
+## Projetos de desenvolvimento
 
-| Projeto | O que faz | Tecnologias |
-|---|---|---|
-| [Rick Teacher](https://github.com/mrgallucci/Rick-Teacher) | Aplicação para praticar nomes de cores em inglês usando reconhecimento de voz e pontuação por resposta. | JavaScript, HTML, CSS e Web Speech API |
-| [Simulator Bill App](https://github.com/mrgallucci/Simulator-Bill-App) | Simulação de uma interface de restaurante, com carrinho de compras e calculadora de gorjetas. | JavaScript, HTML e CSS |
-| [Send Email AutoPy](https://github.com/mrgallucci/Send-Email-AutoPy) | Experimento de automação que lê uma planilha de vendas, calcula indicadores e interage com o navegador para enviar um relatório por e-mail. | Python, pandas e PyAutoGUI |
-| [Univerflix](https://github.com/mrgallucci/Streaming-Movie-Page) | Interface de catálogo inspirada em plataformas de streaming, com conteúdo sobre o universo. Projeto de curso com personalizações de conteúdo e interface. | HTML, CSS, JavaScript e Owl Carousel |
-
-## Sobre este portfólio
-
-Os projetos publicados registram minha trajetória de aprendizado. Cada repositório apresenta sua proposta e o código desenvolvido.
+- [Rick Teacher](https://github.com/mrgallucci/Rick-Teacher): prática de cores em inglês com reconhecimento de voz.
+- [Simulator Bill App](https://github.com/mrgallucci/Simulator-Bill-App): interface de restaurante com carrinho e calculadora de gorjetas.
+- [Send Email AutoPy](https://github.com/mrgallucci/Send-Email-AutoPy): experimento de automação de relatórios de vendas com Python.
+- [Univerflix](https://github.com/mrgallucci/Streaming-Movie-Page): interface de catálogo de streaming desenvolvida a partir de um projeto de curso.
 
 ## Contato
 
