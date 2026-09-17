@@ -1,6 +1,9 @@
 "Dare Mighty Things" 🚀<br><hr>
 # Olá, sou Maxwell Gallucci Rodrigues
 
+Estou direcionando meu desenvolvimento profissional para a atuação como **Analista de Inteligência Artificial**, com interesse em aplicar IA à análise de informações, à automação de tarefas e à melhoria de processos.
+
+Minha trajetória inclui projetos de desenvolvimento web e automação com Python. Atualmente, estou ampliando essa base para construir soluções com inteligência artificial e documentar meus aprendizados por meio de projetos práticos.
 Desenvolvo projetos de interfaces web e automação com Python. Neste perfil, compartilho aplicações, experimentos e aprendizados em desenvolvimento de software.
 
 ## Tecnologias presentes nos meus projetos
