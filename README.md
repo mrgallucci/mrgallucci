@@ -1,25 +1,27 @@
 "Dare Mighty Things" 🚀<br><hr>
-Maxwell Gallucci Rodrigues 🙋🏼‍♂️
+# Olá, sou Maxwell Gallucci Rodrigues
 
-- Estudante de Analise e Desenvolvimento de Sistemas
-- Expertise em:
-- -HTML - CSS - JAVASCRIPT
-- BOOTSTRAP - JQUERY - REACT
-- PYTHON - DJANGO
+Desenvolvo projetos de interfaces web e automação com Python. Neste perfil, compartilho aplicações, experimentos e aprendizados em desenvolvimento de software.
 
-  
-  <div style="display: inline_block"><br>
-  <img alt="mgr-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="mgr-React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  alt="mgr-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  alt="mgr-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="mgr-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="mgr-bootstrap" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-     <img align="right" alt="mgr-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ZjTLN2GWlLQAAAAC/rick-and-morty-laugh.gif">
-</div>
- 
-  ##
-  <div> 
-  <a href="https://instagram.com/mrgallucci_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0095D5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mgrodrigues920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mrgallucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Tecnologias presentes nos meus projetos
+
+- **Desenvolvimento web:** HTML, CSS e JavaScript.
+- **Interfaces e componentes:** jQuery e Owl Carousel.
+- **Automação e dados:** Python, pandas e PyAutoGUI.
+
+## Projetos em destaque
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [Rick Teacher](https://github.com/mrgallucci/Rick-Teacher) | Aplicação para praticar nomes de cores em inglês usando reconhecimento de voz e pontuação por resposta. | JavaScript, HTML, CSS e Web Speech API |
+| [Simulator Bill App](https://github.com/mrgallucci/Simulator-Bill-App) | Simulação de uma interface de restaurante, com carrinho de compras e calculadora de gorjetas. | JavaScript, HTML e CSS |
+| [Send Email AutoPy](https://github.com/mrgallucci/Send-Email-AutoPy) | Experimento de automação que lê uma planilha de vendas, calcula indicadores e interage com o navegador para enviar um relatório por e-mail. | Python, pandas e PyAutoGUI |
+| [Univerflix](https://github.com/mrgallucci/Streaming-Movie-Page) | Interface de catálogo inspirada em plataformas de streaming, com conteúdo sobre o universo. Projeto de curso com personalizações de conteúdo e interface. | HTML, CSS, JavaScript e Owl Carousel |
+
+## Sobre este portfólio
+
+Os projetos publicados registram minha trajetória de aprendizado. Cada repositório apresenta sua proposta e o código desenvolvido.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mrgallucci/) · [E-mail](mailto:mgrodrigues920@gmail.com)
