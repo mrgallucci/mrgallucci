@@ -1,35 +1,100 @@
-
 "Dare Mighty Things" 🚀<br><hr>
-# Olá, sou Maxwell Gallucci Rodrigues
+ Olá, sou Maxwell Gallucci Rodrigues 👋
 
-Desenvolvo projetos web com apoio de inteligência artificial, explorando aplicações para comércio digital, automação, atendimento e aprendizado.
+Profissional em transição para tecnologia, com foco em desenvolvimento de soluções digitais, automação, análise de dados e inteligência artificial aplicada.
 
-Estou direcionando minha trajetória profissional para **Análise de Inteligência Artificial**, com foco em compreender problemas, construir soluções e avaliar seus resultados.
+Tenho desenvolvido projetos voltados a problemas reais de negócio, trabalhando desde a definição de requisitos e fluxos até implementação, testes, integração de serviços e evolução das aplicações.
 
-## Projetos em destaque
+🚀 Projetos em destaque
 
-| Projeto | Proposta |
-|---|---|
-| **[Casa da Barrica Wines](https://github.com/mrgallucci/Adega-Casa-da-barrica-wines)** | Plataforma de adega com catálogo, pedidos, assinaturas e integrações de IA para harmonização e atendimento. Em desenvolvimento e validação. |
-| **[Rick Teacher AI](https://github.com/mrgallucci/rick-teacher-ai)** | Aplicação para praticar cores em inglês com reconhecimento de voz, níveis, pontuação e progresso salvo no navegador. |
-| **[Royal Ingressos](https://github.com/mrgallucci/royal-ingressos)** | Protótipo para gestão de eventos e ingressos digitais, com fluxos demonstrativos de pagamento e validação. |
+📊 CRM Integrado — Em desenvolvimento
 
-## Tecnologias presentes nos projetos
+Plataforma em construção para acompanhar a jornada do cliente de forma mais completa, conectando marketing, vendas, relacionamento, pós-venda e consumo do produto.
 
-- **Frontend:** React, JavaScript, HTML, CSS e Tailwind CSS.
-- **Backend e dados:** Python, FastAPI e MongoDB.
-- **Automação:** pandas e PyAutoGUI.
-- **Integrações:** APIs de pagamentos, reconhecimento de voz e modelos de linguagem.
+O projeto está sendo estruturado para reunir informações de leads e clientes, histórico de interações, etapas comerciais, métricas de conversão e dados de comportamento após a compra.
 
-## Como utilizo IA
+A frente atual também contempla integração com um LMS, permitindo acompanhar indicadores como:
 
-- **ChatGPT:** redação, análise de dados, refinamento de prompts e apoio à revisão de código.
-- **Emergent:** desenvolvimento assistido de aplicações web.
-- **Runway:** criação de vídeos e imagens.
-- **Lovart:** criação de materiais visuais, banners, flyers e portfólios.
+- acesso aos materiais;
+- visualização de aulas;
+- progresso no curso;
+- abandono;
+- conclusão;
+- comportamento pós-venda.
 
-Os projetos documentam minha prática com essas ferramentas. Seus READMEs apresentam o estado atual, as integrações e as limitações conhecidas.
+A proposta é transformar dados dispersos em uma visão mais útil para análise, tomada de decisão e acompanhamento do ciclo completo do cliente.
 
-## Contato
+---
 
-[LinkedIn](https://www.linkedin.com/in/mrgallucci/) · [E-mail](mailto:mgrodrigues920@gmail.com)
+🍷 "Casa da Barrica Wines" (https://github.com/mrgallucci/Adega-Casa-da-barrica-wines)
+
+Plataforma web para gestão e operação de uma adega, envolvendo catálogo de produtos, pedidos, pagamentos, assinaturas, autenticação, área administrativa e recursos de recomendação e atendimento.
+
+Tecnologias: React, JavaScript, Python, FastAPI, MongoDB, APIs REST, JWT e Mercado Pago.
+
+---
+
+🎟️ "Royal Ingressos" (https://github.com/mrgallucci/royal-ingressos)
+
+Aplicação para gerenciamento de eventos e ingressos digitais, explorando cadastro de clientes, geração e validação de ingressos, pagamentos, QR Codes e administração de eventos.
+
+Tecnologias: React, Python, FastAPI, MongoDB e APIs REST.
+
+---
+
+🤖 "Rick Teacher AI" (https://github.com/mrgallucci/rick-teacher-ai)
+
+Aplicação educacional voltada ao aprendizado de inglês, utilizando reconhecimento de voz, níveis, pontuação e acompanhamento de progresso.
+
+---
+
+🛠️ Tecnologias e conhecimentos
+
+Frontend
+React · JavaScript · HTML5 · CSS3 · Tailwind CSS
+
+Backend
+Python · FastAPI · APIs REST
+
+Dados
+MongoDB · pandas · análise e tratamento de dados
+
+Integrações
+APIs externas · pagamentos · autenticação · webhooks · serviços de IA
+
+Ferramentas e práticas
+Git · GitHub · VS Code · debugging · documentação · testes · versionamento
+
+---
+
+🧠 Inteligência Artificial no desenvolvimento
+
+Utilizo ferramentas de inteligência artificial como apoio ao processo de desenvolvimento para pesquisa técnica, prototipação, análise de código, debugging, documentação e avaliação de alternativas de implementação.
+
+Meu foco está em compreender o problema, validar as soluções propostas e evoluir minha capacidade técnica para utilizar essas ferramentas de forma crítica e produtiva.
+
+---
+
+📚 Atualmente
+
+Aprofundando conhecimentos em:
+
+- Python
+- desenvolvimento web
+- APIs e integrações
+- análise de dados
+- automação
+- inteligência artificial aplicada
+- arquitetura e organização de aplicações
+
+---
+
+🎯 Objetivo profissional
+
+Construir uma carreira na área de tecnologia trabalhando com desenvolvimento, análise e aplicação de inteligência artificial em soluções reais, combinando conhecimento de negócio, capacidade analítica e desenvolvimento de software.
+
+---
+
+📫 Contato
+
+"LinkedIn" (https://www.linkedin.com/in/mrgallucci/) · "GitHub" (https://github.com/mrgallucci)
