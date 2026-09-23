@@ -1,57 +1,129 @@
-"Dare Mighty Things" 🚀<br><hr>
- Olá, sou Maxwell Gallucci Rodrigues 👋
+Maxwell Gallucci Rodrigues
 
-Profissional em transição para tecnologia, com foco em desenvolvimento de soluções digitais, automação, análise de dados e inteligência artificial aplicada.
+"Dare Mighty Things" 🚀
 
-Tenho desenvolvido projetos voltados a problemas reais de negócio, trabalhando desde a definição de requisitos e fluxos até implementação, testes, integração de serviços e evolução das aplicações.
+Desenvolvedor em formação com foco em Inteligência Artificial aplicada, automação, dados e desenvolvimento de produtos digitais.
+
+Minha trajetória em tecnologia é construída a partir de projetos práticos. Gosto de partir de um problema real, organizar requisitos e fluxos, desenvolver a solução, testar, corrigir e evoluir a arquitetura conforme aprendo novas ferramentas e conceitos.
+
+Hoje meu objetivo não é apenas escrever código, mas entender como software, dados e IA podem ser combinados para criar soluções úteis, mensuráveis e sustentáveis.
 
 🚀 Projetos em destaque
 
-📊 CRM Integrado — Em desenvolvimento
+🧠 CRM Integrado — Em desenvolvimento
 
-Plataforma em construção para acompanhar a jornada do cliente de forma mais completa, conectando marketing, vendas, relacionamento, pós-venda e consumo do produto.
+Plataforma em construção para acompanhar a jornada do cliente de ponta a ponta, conectando marketing, vendas, relacionamento, pós-venda e consumo do produto.
 
-O projeto está sendo estruturado para reunir informações de leads e clientes, histórico de interações, etapas comerciais, métricas de conversão e dados de comportamento após a compra.
+A proposta é reunir dados que normalmente ficam dispersos e transformá-los em uma visão mais útil para análise e tomada de decisão.
 
-A frente atual também contempla integração com um LMS, permitindo acompanhar indicadores como:
+O projeto contempla:
 
-- acesso aos materiais;
-- visualização de aulas;
-- progresso no curso;
-- abandono;
-- conclusão;
-- comportamento pós-venda.
+gestão de leads e clientes;
 
-A proposta é transformar dados dispersos em uma visão mais útil para análise, tomada de decisão e acompanhamento do ciclo completo do cliente.
+histórico de interações;
 
----
+etapas comerciais e conversões;
 
-🍷 "Casa da Barrica Wines" (https://github.com/mrgallucci/Adega-Casa-da-barrica-wines)
+acompanhamento pós-venda;
 
-Plataforma web para gestão e operação de uma adega, envolvendo catálogo de produtos, pedidos, pagamentos, assinaturas, autenticação, área administrativa e recursos de recomendação e atendimento.
+integração com LMS;
 
-Tecnologias: React, JavaScript, Python, FastAPI, MongoDB, APIs REST, JWT e Mercado Pago.
+progresso e conclusão de cursos;
 
----
+indicadores de engajamento e abandono;
 
-🎟️ "Royal Ingressos" (https://github.com/mrgallucci/royal-ingressos)
+organização de dados para análises futuras e automações.
+
+🍷 Casa da Barrica Wines
+
+Plataforma web voltada à operação de uma adega, trabalhando catálogo, pedidos, pagamentos, assinaturas, autenticação, área administrativa e recursos de recomendação e atendimento.
+
+Tecnologias: React · JavaScript · Python · FastAPI · MongoDB · APIs REST · JWT · Mercado Pago
+
+🎟️ Royal Ingressos
 
 Aplicação para gerenciamento de eventos e ingressos digitais, explorando cadastro de clientes, geração e validação de ingressos, pagamentos, QR Codes e administração de eventos.
 
-Tecnologias: React, Python, FastAPI, MongoDB e APIs REST.
+Tecnologias: React · Python · FastAPI · MongoDB · APIs REST
 
----
+🤖 Rick Teacher AI
 
-🤖 "Rick Teacher AI" (https://github.com/mrgallucci/rick-teacher-ai)
+Aplicação educacional para aprendizagem de inglês básico, reconstruída como um projeto independente com HTML, CSS e JavaScript no frontend e FastAPI no backend.
 
-Aplicação educacional voltada ao aprendizado de inglês, utilizando reconhecimento de voz, níveis, pontuação e acompanhamento de progresso.
+O projeto evoluiu de um exercício simples de reconhecimento de voz para uma experiência de estudo com:
 
----
+trilha estruturada de inglês A1;
+
+vocabulário e exemplos contextualizados;
+
+exercícios e acompanhamento de progresso;
+
+reconhecimento e síntese de voz no navegador;
+
+persistência local;
+
+tutor integrado a LLM por meio de uma API backend;
+
+separação segura entre frontend e credenciais da API.
+
+Tecnologias: HTML5 · CSS3 · JavaScript · Web Speech API · Python · FastAPI · OpenAI API
+
+🎬 UNIVERFLIX
+
+Projeto originalmente criado durante meus primeiros estudos de desenvolvimento web e posteriormente refatorado para representar minha evolução técnica.
+
+A versão atual transforma a antiga página de streaming em uma aplicação mais completa, incluindo:
+
+autenticação simulada;
+
+múltiplos perfis;
+
+controle parental;
+
+listas individuais por perfil;
+
+persistência com LocalStorage;
+
+interface responsiva;
+
+mecanismo de recomendação baseado em intenção, contexto e preferências;
+
+recomendações explicáveis.
+
+O projeto também documenta a diferença entre um sistema de recomendação baseado em regras e uma integração real com modelos de linguagem.
+
+Tecnologias: HTML5 · CSS3 · JavaScript · LocalStorage · Recommendation Engine Prototype
+
+🧩 Como trabalho com IA
+
+Utilizo inteligência artificial como ferramenta de desenvolvimento e análise — não como substituto do entendimento técnico.
+
+No meu fluxo, IA pode participar de:
+
+pesquisa e levantamento de alternativas;
+
+prototipação;
+
+revisão e explicação de código;
+
+debugging;
+
+refatoração;
+
+documentação;
+
+geração e validação de hipóteses;
+
+análise de dados;
+
+integração de modelos e APIs em aplicações.
+
+Busco entender por que uma solução funciona, onde ela pode falhar e como validá-la antes de incorporá-la a um projeto.
 
 🛠️ Tecnologias e conhecimentos
 
 Frontend
-React · JavaScript · HTML5 · CSS3 · Tailwind CSS
+HTML5 · CSS3 · JavaScript · React · Tailwind CSS
 
 Backend
 Python · FastAPI · APIs REST
@@ -59,42 +131,52 @@ Python · FastAPI · APIs REST
 Dados
 MongoDB · pandas · análise e tratamento de dados
 
+Inteligência Artificial
+Integração com LLMs · OpenAI API · sistemas de recomendação · prompting estruturado · aplicações assistidas por IA
+
 Integrações
-APIs externas · pagamentos · autenticação · webhooks · serviços de IA
+APIs externas · pagamentos · autenticação · webhooks
 
 Ferramentas e práticas
 Git · GitHub · VS Code · debugging · documentação · testes · versionamento
 
----
+📈 Evolução contínua
 
-🧠 Inteligência Artificial no desenvolvimento
+Alguns dos meus repositórios mais antigos continuam públicos de propósito.
 
-Utilizo ferramentas de inteligência artificial como apoio ao processo de desenvolvimento para pesquisa técnica, prototipação, análise de código, debugging, documentação e avaliação de alternativas de implementação.
+Eles registram as primeiras etapas dos meus estudos e tornam possível comparar projetos iniciais com versões posteriormente reconstruídas, como:
 
-Meu foco está em compreender o problema, validar as soluções propostas e evoluir minha capacidade técnica para utilizar essas ferramentas de forma crítica e produtiva.
+Rick-Teacher → Rick Teacher AI
+Streaming Movie Page → UNIVERFLIX
 
----
+Para mim, o portfólio não serve apenas para mostrar o resultado final. Ele também registra como minha forma de pensar, estruturar e desenvolver software está evoluindo.
 
-📚 Atualmente
+📚 Atualmente estudando e desenvolvendo
 
-Aprofundando conhecimentos em:
+Python aplicado a automação e backend;
 
-- Python
-- desenvolvimento web
-- APIs e integrações
-- análise de dados
-- automação
-- inteligência artificial aplicada
-- arquitetura e organização de aplicações
+desenvolvimento web;
 
----
+APIs e integrações;
+
+análise de dados;
+
+inteligência artificial aplicada;
+
+LLMs e sistemas de recomendação;
+
+arquitetura e organização de aplicações;
+
+Git e versionamento;
+
+construção de produtos digitais orientados a problemas reais.
 
 🎯 Objetivo profissional
 
-Construir uma carreira na área de tecnologia trabalhando com desenvolvimento, análise e aplicação de inteligência artificial em soluções reais, combinando conhecimento de negócio, capacidade analítica e desenvolvimento de software.
+Construir carreira em tecnologia atuando na interseção entre desenvolvimento de software, análise de dados e Inteligência Artificial aplicada.
 
----
+Tenho especial interesse em projetos nos quais IA não seja apenas um recurso demonstrativo, mas uma parte bem definida da solução — integrada a regras de negócio, dados, APIs e experiências reais de usuário.
 
 📫 Contato
 
-"LinkedIn" (https://www.linkedin.com/in/mrgallucci/) · "GitHub" (https://github.com/mrgallucci)
+LinkedIn · GitHub
